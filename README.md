@@ -2,5 +2,7 @@
 certifications &amp; Technical Certifications
 
 Certifications/
-|---- Cybrary
+Cybrary
+TryHackMe
+
  
